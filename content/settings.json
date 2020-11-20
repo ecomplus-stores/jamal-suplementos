@@ -1,22 +1,23 @@
 {
-  "store_id": 1183,
-  "name": "jamal-suplementos",
   "domain": "jamal-suplementos.netlify.app",
-  "short_name": "jamal-suplementos-shop",
-  "description": "jamal-suplementos-shop",
+  "currency_symbol": "R$",
   "primary_color": "#313131",
-  "secondary_color": "#e36159",
-  "bg_color": "#fff",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "_",
+    "custom": "clean-dark"
   },
+  "bg_color": "#fff",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "jamal-suplementos",
+  "short_name": "jamal-suplementos-shop",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
+  "country_code": "BR",
+  "secondary_color": "#ff4d00",
+  "icon": "/img/icon.png",
+  "store_id": 1183,
+  "description": "jamal-suplementos-shop",
+  "large_icon": "/img/large-icon.png"
 }
