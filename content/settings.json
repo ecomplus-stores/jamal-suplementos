@@ -6,18 +6,18 @@
     "bootswatch": "_",
     "custom": "clean-dark"
   },
-  "bg_color": "#f0f0f0",
+  "bg_color": "#ededed",
   "logo": "/img/uploads/logo_negativo_transparente.png",
   "name": "jamal-suplementos",
-  "short_name": "jamal-suplementos-shop",
+  "short_name": "Jamal Suplementos",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
   "secondary_color": "#ff4d00",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/logo_small_positivo.png",
   "store_id": 1183,
   "description": "jamal-suplementos-shop",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/logo_large_positivo.png"
 }
