@@ -4,10 +4,10 @@
   "primary_color": "#313131",
   "theme": {
     "bootswatch": "_",
-    "custom": "clean-white"
+    "custom": "clean-dark"
   },
   "bg_color": "#f0f0f0",
-  "logo": "/img/uploads/logo.png",
+  "logo": "/img/uploads/logo_negativo_transparente.png",
   "name": "jamal-suplementos",
   "short_name": "jamal-suplementos-shop",
   "lang": "pt_br",
