@@ -1,5 +1,5 @@
 {
-  "css": "\n.header {\n    border-width: 2px;\n    padding: var(--spacer-2) var(--spacer-3);\n    background-color: #343a40;\n}",
+  "css": "\n.header {\n    border-width: 2px;\n    padding: var(--spacer-2) var(--spacer-3);\n    background-color: #171819;\n}",
   "html_head": "",
   "html_body": ""
 }
