@@ -25,7 +25,8 @@
           "end": "2021-02-01T02:59:00.000Z",
           "img": "/img/uploads/1140x300brinde.png",
           "link": "http://jamalsuplementos.com.br/search",
-          "mobile_img": "/img/uploads/1080x1080-brinde.png"
+          "mobile_img": "/img/uploads/1080x1080-brinde.png",
+          "alt": "http://jamalsuplementos.com.br/search"
         }
       ]
     },
