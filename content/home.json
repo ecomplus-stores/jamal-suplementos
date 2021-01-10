@@ -19,6 +19,13 @@
           "img": "/img/uploads/1140x300frete-1-.png",
           "link": "https://jamalsuplementos.com.br/search",
           "mobile_img": "/img/uploads/1080x1080frete.png"
+        },
+        {
+          "start": "2021-01-10T00:51:40.453Z",
+          "end": "2021-02-01T02:59:00.000Z",
+          "img": "/img/uploads/1140x300brinde.png",
+          "link": "http://jamalsuplementos.com.br/search",
+          "mobile_img": "/img/uploads/1080x1080-brinde.png"
         }
       ]
     },
