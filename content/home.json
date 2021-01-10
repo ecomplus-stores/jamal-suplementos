@@ -35,15 +35,14 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "5ff5cccb69274c73fcf181b0:categories:PROMOÇÃO DE INAUGURAÇÃO:/promocaoinauguracao"
+      "shuffle": true,
+      "collection_id": "5ff89fe669274c73fcf293e7:collections:🎁 Promoção de Inauguração:/promocaoinauguracao10"
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "5ff89fe669274c73fcf293e7:collections:🎁 Promoção de Inauguração:/promocaoinauguracao10"
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
     }
   ]
 }
