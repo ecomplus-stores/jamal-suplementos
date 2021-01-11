@@ -23,6 +23,13 @@
     {
       "type": "product-specifications",
       "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "5ffa1a8169274c73fcf2eb06:collections:Também pode te interessar:/tambempodeteinteressar"
     }
   ]
 }
