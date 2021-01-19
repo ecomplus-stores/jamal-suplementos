@@ -18,8 +18,8 @@
           "start": "2021-01-18T14:19:49.748Z",
           "end": "2021-01-24T02:59:00.000Z",
           "link": "https://www.jamalsuplementos.com.br/kit-adptogen-science",
-          "mobile_img": "/img/uploads/1080x1080mobileadaptogen.png",
-          "img": "/img/uploads/1140x300brindesiteadaptogen.png"
+          "mobile_img": "/img/uploads/1080x1080mobileadaptogen-1-.png",
+          "img": "/img/uploads/1140x300brindesiteadaptogen-1-.png"
         },
         {
           "start": "2021-01-09T20:05:14.746Z",
@@ -33,13 +33,6 @@
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "600584b769274c73fcf6f17a:collections:Kit Adaptogen Science:/kit-adptogen-science"
     },
     {
       "type": "collection-shelf",
