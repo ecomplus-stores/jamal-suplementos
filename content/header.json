@@ -10,8 +10,13 @@
     "socials": false
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
+    "featured": [
+      "/objetivos?Objetivos",
+      "/proteinas?Proteínas",
+      "/pre-treino?Pré-treino",
+      "/creatinas?Creatinas"
+    ],
+    "random": 4,
     "full_width": true
   },
   "search_input": true
