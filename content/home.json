@@ -44,23 +44,23 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/definicao-muscular.png",
+          "img": "/img/uploads/1-definicao-muscular.png",
           "link": "https://www.jamalsuplementos.com.br/definicao-muscular"
         },
         {
           "link": "https://www.jamalsuplementos.com.br/energia-e-performance",
-          "img": "/img/uploads/energia-e-performance.png"
+          "img": "/img/uploads/2-energia-e-performance.png"
         },
         {
-          "img": "/img/uploads/perder-peso.png",
+          "img": "/img/uploads/3-perder-peso.png",
           "link": "https://www.jamalsuplementos.com.br/perder-peso"
         },
         {
-          "img": "/img/uploads/ganhar-peso.png",
+          "img": "/img/uploads/4-ganhar-peso.png",
           "link": "https://www.jamalsuplementos.com.br/ganho-de-peso"
         },
         {
-          "img": "/img/uploads/saude-e-bem-estar.png",
+          "img": "/img/uploads/5-saude-e-bem-estar.png",
           "link": "https://www.jamalsuplementos.com.br/saude-e-bem-estar"
         }
       ]
