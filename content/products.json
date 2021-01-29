@@ -30,11 +30,6 @@
       "limit": 12,
       "page": 1,
       "collection_id": "5ffa1a8169274c73fcf2eb06:collections:Também pode te interessar:/tambempodeteinteressar"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/naoachouseuproduto.png",
-      "link": "https://api.whatsapp.com/send?phone=5531993080423&text=Oi,%20quero%20saber%20mais%20sobre%20um%20produto"
     }
   ]
 }
