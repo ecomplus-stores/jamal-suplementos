@@ -18,6 +18,11 @@
     {
       "type": "document-banner",
       "enabled": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/naoachouseuproduto.png",
+      "link": "https://api.whatsapp.com/send?phone=5531993080423&text=Oi,%20quero%20saber%20mais%20sobre%20um%20produto"
     }
   ]
 }
