@@ -7,20 +7,6 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-02-01T03:00:00.000Z",
-          "end": "2021-02-16T02:59:00.000Z",
-          "img": "/img/uploads/brindecamisetadesktop.png",
-          "mobile_img": "/img/uploads/brindecamisetadryfitmobile.png",
-          "link": "https://www.jamalsuplementos.com.br/search"
-        },
-        {
-          "start": "2021-02-01T19:49:02.959Z",
-          "end": "2021-02-16T02:59:00.000Z",
-          "img": "/img/uploads/bronecrusherdesktop.png",
-          "link": "https://www.jamalsuplementos.com.br/bonecrusher150gblackskull",
-          "mobile_img": "/img/uploads/bronecrushermobile.png"
-        },
-        {
           "start": "2021-02-15T21:09:29.168Z",
           "end": "2021-02-22T02:59:00.000Z",
           "img": "/img/uploads/veganprodesktop.png",
