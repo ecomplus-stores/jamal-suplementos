@@ -12,6 +12,13 @@
           "img": "/img/uploads/objetivo-desktop.png",
           "link": "https://www.jamalsuplementos.com.br/objetivos",
           "mobile_img": "/img/uploads/objetivo-mobile.png"
+        },
+        {
+          "start": "2021-03-08T17:11:02.288Z",
+          "end": "2021-03-14T02:59:00.000Z",
+          "img": "/img/uploads/semana-da-mulher-desktop.png",
+          "mobile_img": "/img/uploads/semana-da-mulher-mobile.png",
+          "link": "https://www.jamalsuplementos.com.br/search?term=mulher"
         }
       ]
     },
