@@ -7,18 +7,18 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-02-22T12:21:55.975Z",
-          "end": "2030-02-22T12:21:00.000Z",
-          "img": "/img/uploads/objetivo-desktop.png",
-          "link": "https://www.jamalsuplementos.com.br/objetivos",
-          "mobile_img": "/img/uploads/objetivo-mobile.png"
-        },
-        {
           "start": "2021-03-15T16:50:49.165Z",
           "end": "2021-03-29T02:59:00.000Z",
           "img": "/img/uploads/quizenaconsumidor-desktop.png",
           "link": "https://www.jamalsuplementos.com.br/search?term=consumidor",
           "mobile_img": "/img/uploads/quizenaconsumidor-mobile.png"
+        },
+        {
+          "start": "2021-02-22T12:21:55.975Z",
+          "end": "2030-02-22T12:21:00.000Z",
+          "img": "/img/uploads/objetivo-desktop.png",
+          "link": "https://www.jamalsuplementos.com.br/objetivos",
+          "mobile_img": "/img/uploads/objetivo-mobile.png"
         }
       ]
     },
